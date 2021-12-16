@@ -1,3 +1,4 @@
 # APART_CapstoneFall
 
-Play: https://itsgarbear.github.io/APART_CapstoneFall/
+Play Can Die: 
+Play Can't Die: 
